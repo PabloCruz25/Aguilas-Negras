@@ -1,18 +1,19 @@
 # Aguilas Negras 
 ---
-¡guilas Negras es un grupo de trabajo colaborativo de la materia ProgramaciÛn para Videojuegos, estamos conformados por 05 miembros, estudiantes de la carrera IngenierÌa multimedia.
+√Åguilas Negras es un grupo de trabajo colaborativo de la materia Programaci√≥n para Videojuegos, estamos conformados por 05 miembros, estudiantes de la carrera Ingenier√≠a multimedia.
 
 ###### Los miembros que conforma este grupo son:
-- Pablo AndrÈs Cruz Charry.
+- Pablo Andr√©s Cruz Charry.
 
 
 [![IMG-20230722-150748-2.jpg](https://i.postimg.cc/GpDwbF8v/IMG-20230722-150748-2.jpg)](https://postimg.cc/7CqQVTNL)
 
 
-Me encuentro residiendo en un pueblito muy pequeÒo de Cundinamarca, su nombre es VianÌ y es el municipio modelo y musical de Colombia. tengo 23 aÒos y me encuentro estudiando y trabajando, Me gusta el deporte, el cine y los videojuegos.Entre las carreras en el desarrollo de videojuegos la que m·s me llama la atenciÛn es la de ìDiseÒador de Narrativasî ya que siempre me han apasionado las buenas historias con una gran narrativa y trasfondo detr·s, por lo que esta carrera me impacta de gran manera, me gustarÌa ser el encargado de crear una buena historia y trasmitir un buen mensaje a travÈs de un buen videojuego.
+Me encuentro residiendo en un pueblito muy peque√±o de Cundinamarca, su nombre es Vian√≠ y es el municipio modelo y musical de Colombia. tengo 23 a√±os y me encuentro estudiando y trabajando, Me gusta el deporte, el cine y los videojuegos.Entre las carreras en el desarrollo de videojuegos la que m√°s me llama la atenci√≥n es la de ‚ÄúDise√±ador de Narrativas‚Äù ya que siempre me han apasionado las buenas historias con una gran narrativa y trasfondo detr√°s, por lo que esta carrera me impacta de gran manera, me gustar√≠a ser el encargado de crear una buena historia y trasmitir un buen mensaje a trav√©s de un buen videojuego.
 
 - Angie Tatiana Quesada Ortiz. 
 - Juan David Martinez Serrato. 
 - Maged Alexandra Contreras Vidal. 
-- Jorge AndrÈs Bejarano Montenegro.
+- Jorge Andr√©s Bejarano Montenegro.
+- "Hola a todos, mi nombre es Jorge Andr√©s Bejarano. Tengo 25 a√±os soy de Apulo cundinamarca actualmente trabajo y estudio,me gusta el deporte. Estoy muy interesado en el desarrollo de videojuegos, ya que siempre me ha fascinado c√≥mo estas experiencias pueden combinar creatividad, tecnolog√≠a y narrativa para contar historias √∫nicas. Dentro de la industria, los roles que m√°s me llaman la atenci√≥n son el artistico en el tema de creaci√≥n de personajes y entornos. Y el tema tambi√©n de sonido como lo es la creaci√≥n de efectos.Estoy emocionado de aprender m√°s y colaborar con ustedes para explorar este apasionante campo."
 
