@@ -12,7 +12,13 @@
 Me encuentro residiendo en un pueblito muy pequeño de Cundinamarca, su nombre es Vianí y es el municipio modelo y musical de Colombia. tengo 23 años y me encuentro estudiando y trabajando, Me gusta el deporte, el cine y los videojuegos.Entre las carreras en el desarrollo de videojuegos la que más me llama la atención es la de “Diseñador de Narrativas” ya que siempre me han apasionado las buenas historias con una gran narrativa y trasfondo detrás, por lo que esta carrera me impacta de gran manera, me gustaría ser el encargado de crear una buena historia y trasmitir un buen mensaje a través de un buen videojuego.
 
 - Angie Tatiana Quesada Ortiz. 
-- Juan David Martinez Serrato. 
+- Juan David Martinez Serrato.
+
+  ![Foto](https://i.postimg.cc/0jm2vkcL/upscalemedia-transformed.jpg)
+
+Mucho gusto, mi nombre es Juan David Martínez Serrato, tengo 23 años y vivo en el municipio de Madrid, Cundinamarca. Mis gustos se inclinan hacia actividades tranquilas, como lo son: los videojuegos, ver películas, leer al aire libre o practicar algún deporte. Sin embargo, mi mayor pasión es la escritura de historias, lo que me llevó a estudiar Ingeniería Multimedia con la aspiración de crear animaciones 2D y 3D, permitiéndome plasmar mis ideas más allá de la escritura.
+En este sentido, complementar esta pasión con el desarrollo de videojuegos y materias como la programación representa una gran oportunidad para seguir creciendo y avanzar en el cumplimiento de mis objetivos. Aspiro a desempeñar diversos roles dentro de la industria del desarrollo de videojuegos, como diseñador narrativo y artista 2D y 3D. Sin embargo, mi mayor interés es la creación de escenarios, pues me apasiona construir mundos inmersivos y mágicos, visualmente impactantes, acompañados de historias bien estructuradas, personajes memorables y gameplays atractivos.
+
 - Maged Alexandra Contreras Vidal. 
 - Jorge Andrés Bejarano Montenegro.
 
