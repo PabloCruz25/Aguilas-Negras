@@ -1,18 +1,20 @@
 # Aguilas Negras 
 ---
-¡guilas Negras es un grupo de trabajo colaborativo de la materia ProgramaciÛn para Videojuegos, estamos conformados por 05 miembros, estudiantes de la carrera IngenierÌa multimedia.
+√Åguilas Negras es un grupo de trabajo colaborativo de la materia Programaci√≥n para Videojuegos, estamos conformados por 05 miembros, estudiantes de la carrera Ingenier√≠a multimedia.
 
 ###### Los miembros que conforma este grupo son:
-- Pablo AndrÈs Cruz Charry.
 
 
-[![IMG-20230722-150748-2.jpg](https://i.postimg.cc/GpDwbF8v/IMG-20230722-150748-2.jpg)](https://postimg.cc/7CqQVTNL)
+- Angie Tatiana Quesada Ortiz.  
+
+[![Imagen-de-Whats-App-2025-02-15-a-las-21-23-08-bf6096b2.jpg](https://i.postimg.cc/T3ZF7y51/Imagen-de-Whats-App-2025-02-15-a-las-21-23-08-bf6096b2.jpg)](https://postimg.cc/QFJfVdbZ)
+
+Mi nombre es Angie Tatiana Quesada Ortiz, tengo 23 a√±os soy de la ciudad de Girardot Cundinamarca, actualmente trabajo y estudio, me gusta mucho la danza, leer y el dibujo.
+Entre los roles que observe en el desarrollo de videojuegos la que mas me llamo la atenci√≥n es el de ‚ÄúArtista de salpicaduras‚Äù ya que siempre me a gustado el mundo de las ilustraciones  y siento que tengo buen sentido de composici√≥n y dise√±o, por otra parte me desenvuelvo muy bien realizando piezas 2D d√°ndole un toque realista ,por ende me gustar√≠a ser la encargada de realizar dichas piezas. 
 
 
-Me encuentro residiendo en un pueblito muy pequeÒo de Cundinamarca, su nombre es VianÌ y es el municipio modelo y musical de Colombia. tengo 23 aÒos y me encuentro estudiando y trabajando, Me gusta el deporte, el cine y los videojuegos.Entre las carreras en el desarrollo de videojuegos la que m·s me llama la atenciÛn es la de ìDiseÒador de Narrativasî ya que siempre me han apasionado las buenas historias con una gran narrativa y trasfondo detr·s, por lo que esta carrera me impacta de gran manera, me gustarÌa ser el encargado de crear una buena historia y trasmitir un buen mensaje a travÈs de un buen videojuego.
-
-- Angie Tatiana Quesada Ortiz. 
-- Juan David Martinez Serrato. 
 - Maged Alexandra Contreras Vidal. 
-- Jorge AndrÈs Bejarano Montenegro.
+- Jorge Andr√©s Bejarano Montenegro.
+- Juan David Martinez Serrato.
+- Angie Tatiana Quesada Ortiz.  
 
